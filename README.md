@@ -7,8 +7,10 @@ Find out more on [Contributing](CONTRIBUTING.md)
 <details>
     <summary>Summary Line</summary>
 
+<p>
 ```
 Code block details
 ```
+</p>
 
 </details>
