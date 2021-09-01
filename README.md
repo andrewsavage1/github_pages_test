@@ -6,11 +6,11 @@ Find out more on [Contributing](CONTRIBUTING.md)
 
 <details>
     <summary>Summary Line</summary>
+    <p>
 
-<p>
-```
-Code block details
-```
-</p>
+    ```
+    Code block details
+    ```
 
+    </p>
 </details>
