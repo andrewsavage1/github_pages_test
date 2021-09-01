@@ -5,12 +5,12 @@ Find out more on [Contributing](CONTRIBUTING.md)
 ## Excessive HTML Stuff
 
 <details>
-    <summary>Summary Line</summary>
-    <p>
+<summary>Summary Line</summary>
+<p>
 
-    ```
-    Code block details
-    ```
+```
+Code block details
+```
 
-    </p>
+</p>
 </details>
